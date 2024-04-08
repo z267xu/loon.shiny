@@ -1,9 +1,9 @@
 Package: loon.shiny
 Type: Package
 Title: Automatically Create a 'Shiny' App Based on Interactive 'Loon' Widgets
-Version: 1.0.3
+Version: 1.0.4
 Authors@R: c(
-  person('Zehao', 'Xu', email = 'z267xu@uwaterloo.ca', role = c('aut', 'cre')),
+  person('Zehao', 'Xu', email = 'z267xu@gmail.com', role = c('aut', 'cre')),
   person('R. Wayne', 'Oldford', email = 'rwoldford@uwaterloo.ca', role = c('aut'))
   )
 Description: Package 'shiny' provides interactive web applications in R. Package 'loon' is an interactive toolkit engaged in open-ended, creative and unscripted data exploration. The 'loon.shiny' package can take 'loon' widgets and display a selfsame 'shiny' app. 
@@ -33,6 +33,6 @@ Suggests:
     tidyverse,
     covr,
     png
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.1
 Encoding: UTF-8
 VignetteBuilder: knitr

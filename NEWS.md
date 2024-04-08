@@ -1,3 +1,7 @@
+# loon.shiny 1.0.4
+
+Update maintainer's email
+
 # loon.shiny 1.0.3
 
 No major changes. Some minor changes are made on documents.
